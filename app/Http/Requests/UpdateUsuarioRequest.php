@@ -38,6 +38,7 @@ class UpdateUsuarioRequest extends FormRequest
     // public function validationData()
     // {
     //     return array_merge($this->all(), $this->route()->parameters());
+    //
     // }
 
     /**
